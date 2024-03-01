@@ -1,5 +1,7 @@
 # Untiy_IPAddressUtil
 
+IPAddress utilities mainly for local address.
+
 ## Importing
 
 You can use Package Manager or import it directly.
